@@ -1,4 +1,4 @@
-# Calculator
+# Calculator GUI
 
 This project is a simple calculator application developed using Java Swing. It features a graphical user interface with buttons for digits and basic operations, allowing users to perform arithmetic calculations.
 
